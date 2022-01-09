@@ -10,7 +10,7 @@ function greet(name) {
  console.log(`Hello ${name}`);
 }
 
-greet(Tahreer)
+greet("Tahreer")
 /**
  * isOdd(n):
  * - receives a number n
