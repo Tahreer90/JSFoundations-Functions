@@ -17,7 +17,7 @@ printName();
  */
 
 function printAge(birthYear) {
-console.log (2022 - birthYear);
+console.log(2022 - birthYear);
 }
 
 printAge(1990);
